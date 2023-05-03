@@ -1,2 +1,9 @@
 # Gas-Turbine-Emission
-ANALYSIS AND MODELLING OF 5 YEARS’ DATA ON CO AND NOX GAS EMISSIONS FROM GAS TURBINES IN A POWER GENERATION PLANT
+Analysing 5 years’ data on CO and NOX gas emissions from gas turbines in a
+power generation plant
+
+Performing various operations on the data and fitting multiple Linear Regression models
+
+Identifying the most important features in the dataset
+
+Training Machine Learning Models on the data to make the best predictions
